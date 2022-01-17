@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>advanced.New</StartupObject>
+    <StartupObject>advanced.Constructor</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,7 +53,6 @@
     <Compile Include="inheritance.cs" />
     <Compile Include="lexicographical_string.cs" />
     <Compile Include="multithreading.cs" />
-    <Compile Include="new.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="regExp_in_Strings.cs" />
