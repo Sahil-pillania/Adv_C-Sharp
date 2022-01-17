@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>advanced.Generic</StartupObject>
+    <StartupObject>TestClass</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -62,6 +62,7 @@
     <Compile Include="stringBuilder.cs" />
     <Compile Include="stringOperations.cs" />
     <Compile Include="strings.cs" />
+    <Compile Include="TestClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
