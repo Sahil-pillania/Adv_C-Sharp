@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>advanced.New</StartupObject>
+    <StartupObject>advanced.Generic</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,8 @@
     <Compile Include="Constructor.cs" />
     <Compile Include="exceptionHanding.cs" />
     <Compile Include="exceptionHandling2.cs" />
+    <Compile Include="Generic.cs" />
+    <Compile Include="genericMethods.cs" />
     <Compile Include="inheritance.cs" />
     <Compile Include="lexicographical_string.cs" />
     <Compile Include="multithreading.cs" />
