@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TestClass</StartupObject>
+    <StartupObject>advanced.operatorOverloadingUnary</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -56,6 +56,9 @@
     <Compile Include="lexicographical_string.cs" />
     <Compile Include="multithreading.cs" />
     <Compile Include="new.cs" />
+    <Compile Include="operatorOverloading.cs" />
+    <Compile Include="operatorOverloadingBinary.cs" />
+    <Compile Include="operatorOverloadingUnary.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="regExp_in_Strings.cs" />
