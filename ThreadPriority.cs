@@ -38,9 +38,9 @@ public class Abc
         }
   class ThreadPriority
         {
-            public static System.Threading.ThreadPriority AboveNormal { get; private set; }
-            public static System.Threading.ThreadPriority BelowNormal { get; private set; }
-            public static System.Threading.ThreadPriority Lowest { get; private set; }
+          //  public static System.Threading.ThreadPriority AboveNormal { get; private set; }
+         //   public static System.Threading.ThreadPriority BelowNormal { get; private set; }
+           // public static System.Threading.ThreadPriority Lowest { get; private set; }
 
              public static void Main()
             {
