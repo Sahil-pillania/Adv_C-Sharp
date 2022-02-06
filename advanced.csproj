@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>advanced.Assembly</StartupObject>
+    <StartupObject>ThreadPriority</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ClassLib">
@@ -70,6 +70,7 @@
     <Compile Include="stringOperations.cs" />
     <Compile Include="strings.cs" />
     <Compile Include="TestClass.cs" />
+    <Compile Include="ThreadPriority.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
